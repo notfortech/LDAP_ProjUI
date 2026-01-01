@@ -1,0 +1,53 @@
+[
+  {
+    "role_id": "ROLE_OPERATIONS_COORDINATOR",
+    "display_name": "Operations Coordinator",
+    "domain": "Operations",
+    "required_skills": {
+      "SK_ACCOUNTABILITY": 0.25,
+      "SK_COLLABORATION": 0.25,
+      "SK_COMMUNICATION_CLARITY": 0.2,
+      "SK_DECISION_MAKING": 0.15,
+      "SK_EMOTIONAL_REGULATION": 0.15
+    },
+    "context": {
+      "industry": "Services",
+      "region": "India",
+      "employment_type": "Entry to Mid-level"
+    }
+  },
+  {
+    "role_id": "ROLE_HR_OPERATIONS_ASSISTANT",
+    "display_name": "HR Operations Assistant",
+    "domain": "Human Resources",
+    "required_skills": {
+      "SK_COMMUNICATION_CLARITY": 0.3,
+      "SK_COLLABORATION": 0.25,
+      "SK_EMOTIONAL_REGULATION": 0.2,
+      "SK_ACCOUNTABILITY": 0.15,
+      "SK_DECISION_MAKING": 0.1
+    },
+    "context": {
+      "industry": "People Operations",
+      "region": "India",
+      "employment_type": "Entry-level"
+    }
+  },
+  {
+    "role_id": "ROLE_FINANCE_ANALYST_TRAINEE",
+    "display_name": "Finance Analyst (Trainee)",
+    "domain": "Finance",
+    "required_skills": {
+      "SK_ANALYTICAL_STRUCTURING": 0.3,
+      "SK_DECISION_MAKING": 0.25,
+      "SK_CRITICAL_THINKING": 0.2,
+      "SK_COMMUNICATION_CLARITY": 0.15,
+      "SK_EMOTIONAL_REGULATION": 0.1
+    },
+    "context": {
+      "industry": "Finance",
+      "region": "India",
+      "employment_type": "Graduate Trainee"
+    }
+  }
+]

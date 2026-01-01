@@ -1,0 +1,31 @@
+{
+  "placement_model": "CIF_Placement_Assistance",
+  "version": "1.0",
+  "workflow": [
+    "CIF Assessment",
+    "CIF Report Generation",
+    "Capability & Pathway Review",
+    "Learning Pathway Completion",
+    "Updated CIF Score",
+    "Placement Readiness Evaluation"
+  ],
+  "placement_output_fields": [
+    "placement_id",
+    "candidate_cif_id",
+    "readiness_status",
+    "recommended_roles",
+    "skill_readiness",
+    "recommended_learning",
+    "institution_notes"
+  ],
+  "readiness_bands": {
+    "Not_Ready": "Requires foundational capability development",
+    "Progressing": "Capabilities emerging with targeted learning required",
+    "Placement_Ready": "Capabilities aligned with role expectations"
+  },
+  "governance": {
+    "institution_review_required": true,
+    "learning_completion_required": true,
+    "external_employer_validation_supported": true
+  }
+}
