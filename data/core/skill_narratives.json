@@ -1,0 +1,235 @@
+{
+  "SK_COMMUNICATION_CLARITY": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You communicate basic ideas when needed, especially in familiar or low-stakes situations.",
+        "growth": "This capability will grow by practicing clearer articulation of expectations and boundaries in varied contexts."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You communicate clearly in most interactions and are generally understood by others.",
+        "growth": "Further growth comes from navigating difficult conversations with confidence and intent."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You express ideas, expectations, and boundaries with clarity and confidence.",
+        "growth": "You can deepen this capability by modeling effective communication for others."
+      }
+    ]
+  },
+
+  "SK_ACCOUNTABILITY": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You take responsibility when guided and follow through on defined tasks.",
+        "growth": "This capability will grow by proactively owning outcomes, even in ambiguous situations."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You reliably take ownership of your decisions and their outcomes.",
+        "growth": "Growth lies in extending accountability beyond individual tasks to shared outcomes."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You consistently demonstrate ownership and responsibility, even under pressure.",
+        "growth": "Further growth involves enabling accountability within teams or systems."
+      }
+    ]
+  },
+
+  "SK_DECISION_MAKING": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You make decisions when sufficient guidance or structure is available.",
+        "growth": "This capability will mature by practicing independent judgment in less-defined situations."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You make sound decisions in familiar contexts with reasonable confidence.",
+        "growth": "Growth comes from increasing comfort with uncertainty and incomplete information."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You consistently make thoughtful and timely decisions under ambiguity.",
+        "growth": "Further development lies in guiding others through complex decision-making."
+      }
+    ]
+  },
+
+  "SK_LEARNING_AGILITY": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You engage with learning opportunities when they are clearly presented.",
+        "growth": "This capability will grow by actively seeking feedback and new learning experiences."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You adapt your approach based on feedback and new information.",
+        "growth": "Further growth comes from applying learning across unfamiliar or complex situations."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You learn quickly and continuously adapt your thinking and actions.",
+        "growth": "You can deepen this capability by fostering learning environments for others."
+      }
+    ]
+  },
+
+  "SK_EMOTIONAL_REGULATION": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You are aware of emotional responses but may find them challenging under pressure.",
+        "growth": "This capability will develop by practicing self-regulation during stressful or uncertain moments."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You generally manage emotions effectively in most situations.",
+        "growth": "Growth lies in maintaining composure during prolonged or high-stakes challenges."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You remain composed and balanced even in emotionally demanding contexts.",
+        "growth": "Further development involves supporting emotional stability in others."
+      }
+    ]
+  },
+
+  "SK_PROBLEM_STRUCTURING": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You engage with problems as they arise, often focusing on immediate elements.",
+        "growth": "This capability will grow by consciously breaking problems into structured components."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You organise problems into logical parts and identify key variables.",
+        "growth": "Further growth comes from applying structured thinking to unfamiliar or complex problems."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You consistently structure complex problems with clarity and intent.",
+        "growth": "You can deepen this capability by teaching structured problem-solving to others."
+      }
+    ]
+  },
+
+  "SK_CRITICAL_THINKING": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You consider information as presented, with limited analysis.",
+        "growth": "This capability will grow by questioning assumptions and evaluating alternatives."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You analyse information and weigh multiple perspectives.",
+        "growth": "Further growth involves applying critical thinking in complex or ambiguous situations."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You consistently apply objective and reflective analysis to decisions and ideas.",
+        "growth": "You can extend this capability by mentoring others in analytical thinking."
+      }
+    ]
+  },
+
+  "SK_COLLABORATION": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You are beginning to engage with others but may still prefer clarity before participating in shared decision-making.",
+        "growth": "Building confidence in expressing perspectives and negotiating boundaries will help this capability mature."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You collaborate effectively in familiar settings and contribute meaningfully to group outcomes.",
+        "growth": "This capability will grow by engaging more actively in complex or conflicting situations."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You navigate collaboration with clarity, confidence, and mutual respect.",
+        "growth": "Further growth lies in mentoring others and shaping collaborative environments."
+      }
+    ]
+  },
+
+  "SK_SYSTEMS_THINKING": {
+    "bands": [
+      {
+        "min": 0.0,
+        "max": 0.45,
+        "label": "Foundational",
+        "strength": "You focus on individual components of a system.",
+        "growth": "This capability will grow by exploring how actions impact broader systems."
+      },
+      {
+        "min": 0.46,
+        "max": 0.7,
+        "label": "Developing",
+        "strength": "You recognise interdependencies and patterns within systems.",
+        "growth": "Further growth involves anticipating second-order effects and long-term outcomes."
+      },
+      {
+        "min": 0.71,
+        "max": 1.0,
+        "label": "Established",
+        "strength": "You consistently think in systems, anticipating interactions and downstream effects.",
+        "growth": "You can deepen this capability by designing or influencing complex systems."
+      }
+    ]
+  }
+}

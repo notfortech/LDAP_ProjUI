@@ -1,0 +1,56 @@
+[
+  {
+    "signal_id": "SIG_BOUNDARY_ASSERTION",
+    "description": "Ability to state limits, seek clarity, and manage workload expectations",
+    "question_ids": ["SIT_01_Q1", "SIT_01_Q2"],
+    "weights": [0.6, 0.4]
+  },
+  {
+    "signal_id": "SIG_ADAPTIVE_JUDGMENT",
+    "description": "Ability to adjust decisions and approach when situations change",
+    "question_ids": ["SIT_01_Q5"],
+    "weights": [1.0]
+  },
+  {
+    "signal_id": "SIG_EMOTIONAL_REGULATION",
+    "description": "Ability to remain composed and separate emotions from facts",
+    "question_ids": ["SIT_03_Q1", "SIT_03_Q2"],
+    "weights": [0.7, 0.3]
+  },
+  {
+    "signal_id": "SIG_OWNERSHIP",
+    "description": "Sense of responsibility and follow-through without supervision",
+    "question_ids": ["SIT_01_Q3"],
+    "weights": [1.0]
+  },
+  {
+    "signal_id": "SIG_CLARITY_SEEKING",
+    "description": "Ability to ask questions and seek understanding",
+    "question_ids": ["SIT_01_Q4", "SIT_02_Q4"],
+    "weights": [0.5, 0.5]
+  },
+  {
+    "signal_id": "SIG_PERSISTENCE",
+    "description": "Ability to sustain effort despite difficulty or slow progress",
+    "question_ids": ["SIT_01_Q6", "SIT_02_Q3"],
+    "weights": [0.5, 0.5]
+  },
+  {
+    "signal_id": "SIG_APPLICATION_ORIENTATION",
+    "description": "Tendency to apply learning to real-world contexts",
+    "question_ids": ["SIT_02_Q1", "SIT_02_Q2", "SIT_02_Q5"],
+    "weights": [0.4, 0.3, 0.3]
+  },
+  {
+    "signal_id": "SIG_FEEDBACK_RECEPTIVITY",
+    "description": "Ability to take feedback constructively under pressure",
+    "question_ids": ["SIT_03_Q3"],
+    "weights": [1.0]
+  },
+  {
+    "signal_id": "SIG_COLLABORATION",
+    "description": "Ability to work effectively with people with different perspectives",
+    "question_ids": ["SIT_03_Q4"],
+    "weights": [1.0]
+  }
+]

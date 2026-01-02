@@ -1,0 +1,17 @@
+{
+  "framework": "Capability Intelligence Framework (CIF)",
+  "core_version": "1.0.0",
+  "status": "frozen",
+  "released_on": "2025-01-25",
+  "scope": [
+    "signal taxonomy",
+    "skill definitions",
+    "capability narratives",
+    "scoring heuristics",
+    "fit bands",
+    "passport schema"
+  ],
+  "change_policy": "versioned_only",
+  "next_review_window": "2025-04",
+  "notes": "Initial stable release for demos and investor review"
+}

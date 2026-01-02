@@ -1,0 +1,37 @@
+{
+  "framework": "CIF",
+  "core_version": "1.0.0",
+  "validation_model": "layered",
+  "last_updated": "2025-01-25",
+
+  "skills": [
+    {
+      "skill_id": "SK_DECISION_MAKING",
+      "validation_status": "anchored",
+      "confidence": "medium",
+      "sources": [
+        "expert_review",
+        "task_analysis"
+      ],
+      "review_notes": "Consistent across ambiguity-heavy roles"
+    },
+    {
+      "skill_id": "SK_COLLABORATION",
+      "validation_status": "emerging",
+      "confidence": "medium-low",
+      "sources": [
+        "expert_review"
+      ],
+      "review_notes": "Narratives refined based on practitioner feedback"
+    }
+  ],
+
+  "signals": [
+    {
+      "signal_id": "SIG_ADAPTIVE_JUDGMENT",
+      "validation_status": "anchored",
+      "confidence": "medium",
+      "sources": ["expert_review"]
+    }
+  ]
+}
